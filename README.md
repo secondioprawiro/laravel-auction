@@ -86,7 +86,7 @@ This project focuses on core auction mechanics and code quality rather than broa
 
 - [x] **Real-time Bidding Engine**: Updates prices instantly for all users without page reloads.
 - [x] **Livewire Components**: Reactive UI for auction rooms and bid forms.
-- [ ] **UI/UX Enhancement**: Polishing the user interface for a more modern, premium feel.
+- [x] **UI/UX Enhancement**: Polishing the user interface for a more modern, premium feel.
 - [ ] **Auction Management**: Create and manage auction listings.
 - [ ] **Bid History**: Tracking all bids for transparency.
 - [ ] **Automated Testing**: High coverage using Pest PHP.
