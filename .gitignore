@@ -29,3 +29,12 @@ frankenphp-worker.php
 
 database/*.sqlite
 *.sqlite
+
+# Laravel IDE Helper & Pest
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
+pest-ide-helper.php
+
+# Debug & Temporary files
+debug-models.js
